@@ -3,7 +3,7 @@
 
 A responsive, single-page website for **Phoenix**, a fictional technology company. Built as a school project using plain HTML, CSS and JavaScript, with no frameworks or build tools.
 
-**Live site:** https://your-site-name.netlify.app *(replace with your link)*
+**Live site:** https://stunning-malasada-48557d.netlify.app*
 
 ## Pages and sections
 
